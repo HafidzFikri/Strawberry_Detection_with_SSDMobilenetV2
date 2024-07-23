@@ -1,0 +1,12 @@
+item{
+	name:'Matang'
+	id:1
+}
+item{
+	name:'Setengah Matang'
+	id:2
+}
+item{
+	name:'Belum Matang'
+	id:3
+}
